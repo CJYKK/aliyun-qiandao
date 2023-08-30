@@ -1,2 +1,2 @@
-# aliyun-signin-action
-阿里云盘自动签到 | Action | https://github.com/ImYrS/aliyun-auto-signin
+# aliyun-qiandao
+通过Python检查阿里云签到状态
